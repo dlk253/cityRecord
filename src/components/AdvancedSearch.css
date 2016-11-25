@@ -1,0 +1,78 @@
+/* QUICK STYLES:
+
+Fonts:;
+font-family: 'ProximaLight-Italic', 'Arial', 'sans-serif';
+font-family: 'ProximaLight', 'Arial', 'sans-serif';
+font-family: 'ProximaRegular-Italic', 'Arial', 'sans-serif';
+font-family: 'ProximaRegular', 'Arial', 'sans-serif';
+font-family: 'ProximaSemiBold-Italic', 'Arial', 'sans-serif';
+font-family: 'ProximaSemiBold', 'Arial', 'sans-serif';
+
+Colors:
+$gray: #d7d7d7;
+$medium-gray: #bbbbbb;
+$dark-gray: #797979;
+$light-gray: #f1f1f1;
+$blue: #0033AE;
+$green: #2F6120;
+
+*/
+
+.AdvancedSearch {
+  margin-top: 90px;
+  margin-bottom: 90px;
+  background-color: #f1f1f1;
+  border: 1px solid #797979;
+  padding: 20px;
+}
+
+.AdvancedSearch h2 {
+  margin-top: 0;
+  font-family: 'ProximaSemiBold', 'Arial', 'sans-serif';
+  font-size: 20px;
+}
+
+.AdvancedSearch .dateRange .dateSelect .react-datepicker__input-container {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.AdvancedSearch .dateRange .dateSelect .react-datepicker__input-container input[type="text"] {
+  width: 100%;
+}
+
+.AdvancedSearch .dateRange label {
+  margin-top: 10px;
+}
+
+.AdvancedSearch .selectGroup, .AdvancedSearch .keyword {
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-top: 15px;
+}
+
+.AdvancedSearch .inputType.keywordLabel {
+  margin-top: 25px;
+}
+
+.AdvancedSearch .advancedButtons {
+  margin-top: 30px;
+  margin-left: 73%;
+}
+
+.AdvancedSearch .advancedButtons button.applyButton {
+  font-family: 'ProximaSemiBold', 'Arial', 'sans-serif';
+  display: block;
+  padding: 8px 10px;
+  box-shadow: none;
+  background-color: #d7d7d7;
+  border: 1px solid #797979;
+  max-width: 125px;
+  float: inherit;
+}
+
+.AdvancedSearch .advancedButtons button.applyButton:hover {
+  background-color: #bbbbbb;
+}
+
+

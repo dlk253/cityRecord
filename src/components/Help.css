@@ -1,0 +1,40 @@
+/* QUICK STYLES:
+
+Fonts:;
+font-family: 'ProximaLight-Italic', 'Arial', 'sans-serif';
+font-family: 'ProximaLight', 'Arial', 'sans-serif';
+font-family: 'ProximaRegular-Italic', 'Arial', 'sans-serif';
+font-family: 'ProximaRegular', 'Arial', 'sans-serif';
+font-family: 'ProximaSemiBold-Italic', 'Arial', 'sans-serif';
+font-family: 'ProximaSemiBold', 'Arial', 'sans-serif';
+
+Colors:
+$gray: #d7d7d7;
+$medium-gray: #bbbbbb;
+$dark-gray: #797979;
+$light-gray: #f1f1f1;
+$blue: #0033AE;
+$green: #2F6120;
+
+*/
+
+.Help {
+
+}
+
+.Help h3,  .Help h4, .Help p {
+  margin: 0;
+  padding: 0;
+}
+
+.Help h3 {
+  font-size: 20px;
+}
+
+.Help h4 {
+  font-size: 18px;
+}
+
+.Help p {
+  color: #797979;
+}

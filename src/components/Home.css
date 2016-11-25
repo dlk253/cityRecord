@@ -1,0 +1,14 @@
+.Home {
+
+}
+
+.Home .logo {
+  width: 70%;
+  margin: auto;
+  display: block;
+  padding-left: 0px;
+}
+
+.Home .logo-wrapper {
+  margin-top: 80px;
+}

@@ -1,0 +1,36 @@
+/* QUICK STYLES:
+
+Fonts:;
+font-family: 'ProximaLight-Italic', 'Arial', 'sans-serif';
+font-family: 'ProximaLight', 'Arial', 'sans-serif';
+font-family: 'ProximaRegular-Italic', 'Arial', 'sans-serif';
+font-family: 'ProximaRegular', 'Arial', 'sans-serif';
+font-family: 'ProximaSemiBold-Italic', 'Arial', 'sans-serif';
+font-family: 'ProximaSemiBold', 'Arial', 'sans-serif';
+
+Colors:
+$gray: #d7d7d7;
+$medium-gray: #bbbbbb;
+$dark-gray: #797979;
+$light-gray: #f1f1f1;
+$blue: #0033AE;
+$green: #2F6120;
+
+*/
+
+.About {
+
+}
+
+.About .contact-info p {
+  margin: 0 0 2px 0;
+}
+
+.About img {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.About .contact {
+  margin-bottom: 50px;
+}
